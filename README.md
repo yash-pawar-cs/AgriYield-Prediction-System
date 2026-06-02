@@ -89,24 +89,23 @@ AgriYield-Predictor/
 
 ### Home Page
 
-![Home Page](Screenshots
-/Home Page.png)
+![Home Page](Screenshots/HomePage.png)
 
 ### Prediction Form
 
-![Prediction Form](screenshots/prediction.png)
+![Prediction Form](Screenshots/PredictionForm.png)
 
 ### Results Page
 
-![Results Page](screenshots/results.png)
+![Results Page](Screenshots/ResultsPage.png)
 
 ### Insights Section
 
-![Insights Section](screenshots/insights.png)
+![Insights Section](Screenshots/InsightsSection.png)
 
 ### PDF Report
 
-![PDF Report](screenshots/pdf-report.png)
+![PDF Report](Screenshots/PDFReport.png)
 
 ---
 
