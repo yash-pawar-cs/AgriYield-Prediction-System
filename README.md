@@ -93,7 +93,7 @@ AgriYield-Predictor/
 
 ### Prediction Form
 
-![Prediction Form](Screenshots/PredictionForm.pn)
+![Prediction Form](Screenshots/Prediction%20Form.png)
 
 ### Results Page
 
