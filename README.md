@@ -89,7 +89,7 @@ AgriYield-Predictor/
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](AgriYeild Prediction/Screenshots/Home Page.png)
 
 ### Prediction Form
 
