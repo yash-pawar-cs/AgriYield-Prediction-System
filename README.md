@@ -105,7 +105,7 @@ AgriYield-Predictor/
 
 ### PDF Report
 
-![PDF Report](Screenshots/PDFReport.png)
+![PDF Report](Screenshots/PDF%20Report.png)
 
 ---
 
