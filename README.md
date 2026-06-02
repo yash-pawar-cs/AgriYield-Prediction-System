@@ -97,7 +97,7 @@ AgriYield-Predictor/
 
 ### Results Page
 
-![Results Page](Screenshots/ResultsPage.png)
+![Results Page](Screenshots/Results%20Page.png)
 
 ### Insights Section
 
