@@ -144,5 +144,15 @@ Users can download a detailed PDF report containing:
 * Cloud Deployment (Render / AWS)
 
 ---
+## 🛑 Legal Notice & Copyright
+
+**All Rights Reserved.** 
+
+This repository is kept public strictly for portfolio display, code review, and interview evaluation. 
+* **NO** cloning, downloading, or forking for personal or commercial use.
+* **NO** copying code snippets into your own projects.
+* **NO** commercial exploitation or redistribution.
+
+If you wish to use any part of this project, you must obtain explicit written permission from the owner.
 
 
